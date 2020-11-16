@@ -1,0 +1,2 @@
+g++ -std=c++11 dataFinal.cpp
+./a.out
